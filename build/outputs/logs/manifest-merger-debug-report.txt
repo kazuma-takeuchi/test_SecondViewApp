@@ -1,0 +1,166 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/c111f516a07d29dd70996215fdeeceb0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9644d7a2dc147acb861249b0c4c5f6e6/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/bf733876776689a9ed4c9c84f84ef8fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/942accaa0be864841e2bad95d9d7b552/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/97329a841acc0dfda447b27c94608184/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/f5e3e42e29599985c039eebc4e517158/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b60ce090d1ad7c8af1e6d84af5ae7043/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/3ccb21939f9043c67630cfbd41391f69/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/34774da1fd3d6d374e998f6906a383e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/98039c9bd797131f091f6e48f3feed5d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/62c1c3def00d98013570b2b98885328d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/ba61e0cad9f564576502e8c365b88a8d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/b3aa0ba358fd9140d01056362156782c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/179457a0ab456f1b6626061595e14a82/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/82299b647f8eb55ef1e8aa662bec8ba9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d9875c15b8116c00da3ae1dce3b084e7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/db87161b1195b1560147ea8ac58bc2cd/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/d78904a0b8698bc57b21334b58ed7966/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8f30b6aefd8ed0ea0476893eefb3582e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/73807607f1e2e0d4c4b8c028e04cbb4a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/92f65661db593f5108eaf8360bb165a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/fab03b7b0a8154cdec9161567932ed92/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/fb7685f9e87b18139282bff695e09774/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/0a5c84dd3c1b21833f4cb43b5e32533b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/f63d8524acd0f2d4af189203923ae04b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6b133cd0eae89e409f7b91cbe06f75e6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/0961e23badc52a94bd8eac7b900d87f2/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml:3:11-46
+		INJECTED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml:7:22-76
+application
+ADDED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml:9:5-24:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9644d7a2dc147acb861249b0c4c5f6e6/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9644d7a2dc147acb861249b0c4c5f6e6/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d9875c15b8116c00da3ae1dce3b084e7/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d9875c15b8116c00da3ae1dce3b084e7/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/db87161b1195b1560147ea8ac58bc2cd/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/db87161b1195b1560147ea8ac58bc2cd/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d9875c15b8116c00da3ae1dce3b084e7/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml:14:13-39
+	android:label
+		ADDED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml:12:13-45
+	android:roundIcon
+		ADDED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml:13:13-58
+	android:icon
+		ADDED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml:11:13-47
+	android:allowBackup
+		ADDED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml:10:13-39
+	android:theme
+		ADDED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml:15:13-44
+activity#com.example.secondviewapp.MainActivity
+ADDED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml:18:17-68
+	android:name
+		ADDED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml:20:17-76
+	android:name
+		ADDED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml:20:27-74
+activity#com.example.secondviewapp.SubActivity
+ADDED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml:23:9-49
+	android:name
+		ADDED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml:23:19-46
+uses-sdk
+INJECTED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/c111f516a07d29dd70996215fdeeceb0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/c111f516a07d29dd70996215fdeeceb0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9644d7a2dc147acb861249b0c4c5f6e6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9644d7a2dc147acb861249b0c4c5f6e6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/bf733876776689a9ed4c9c84f84ef8fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/bf733876776689a9ed4c9c84f84ef8fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/942accaa0be864841e2bad95d9d7b552/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/942accaa0be864841e2bad95d9d7b552/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/97329a841acc0dfda447b27c94608184/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/97329a841acc0dfda447b27c94608184/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/f5e3e42e29599985c039eebc4e517158/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/f5e3e42e29599985c039eebc4e517158/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b60ce090d1ad7c8af1e6d84af5ae7043/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b60ce090d1ad7c8af1e6d84af5ae7043/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/3ccb21939f9043c67630cfbd41391f69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/3ccb21939f9043c67630cfbd41391f69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/34774da1fd3d6d374e998f6906a383e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/34774da1fd3d6d374e998f6906a383e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/98039c9bd797131f091f6e48f3feed5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/98039c9bd797131f091f6e48f3feed5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/62c1c3def00d98013570b2b98885328d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/62c1c3def00d98013570b2b98885328d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/ba61e0cad9f564576502e8c365b88a8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/ba61e0cad9f564576502e8c365b88a8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/b3aa0ba358fd9140d01056362156782c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/b3aa0ba358fd9140d01056362156782c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/179457a0ab456f1b6626061595e14a82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/179457a0ab456f1b6626061595e14a82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/82299b647f8eb55ef1e8aa662bec8ba9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/82299b647f8eb55ef1e8aa662bec8ba9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d9875c15b8116c00da3ae1dce3b084e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d9875c15b8116c00da3ae1dce3b084e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/db87161b1195b1560147ea8ac58bc2cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/db87161b1195b1560147ea8ac58bc2cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/d78904a0b8698bc57b21334b58ed7966/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/d78904a0b8698bc57b21334b58ed7966/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8f30b6aefd8ed0ea0476893eefb3582e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8f30b6aefd8ed0ea0476893eefb3582e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/73807607f1e2e0d4c4b8c028e04cbb4a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/73807607f1e2e0d4c4b8c028e04cbb4a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/92f65661db593f5108eaf8360bb165a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/92f65661db593f5108eaf8360bb165a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/fab03b7b0a8154cdec9161567932ed92/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/fab03b7b0a8154cdec9161567932ed92/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/fb7685f9e87b18139282bff695e09774/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/fb7685f9e87b18139282bff695e09774/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/0a5c84dd3c1b21833f4cb43b5e32533b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/0a5c84dd3c1b21833f4cb43b5e32533b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/f63d8524acd0f2d4af189203923ae04b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/f63d8524acd0f2d4af189203923ae04b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6b133cd0eae89e409f7b91cbe06f75e6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6b133cd0eae89e409f7b91cbe06f75e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/0961e23badc52a94bd8eac7b900d87f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/kazuma/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/0961e23badc52a94bd8eac7b900d87f2/AndroidManifest.xml:20:5-44
+INJECTED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kazuma/AndroidStudioProjects/SecondViewApp/app/src/main/AndroidManifest.xml

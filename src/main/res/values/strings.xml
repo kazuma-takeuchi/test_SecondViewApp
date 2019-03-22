@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SecondViewApp</string>
+    <string name="flat_text">の称号が与えられました。</string>
+    <string name="stamp_flattext2">あなたは</string>
+    <string name="stamp_flat_text3">に選ばれました</string>
+</resources>
