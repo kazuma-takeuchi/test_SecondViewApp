@@ -1,0 +1,4 @@
+#Fri Mar 22 14:40:54 JST 2019
+base.0=/Users/kazuma/AndroidStudioProjects/SecondViewApp/app/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex
