@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/NCMB/NCMB.iml" filepath="$PROJECT_DIR$/NCMB/NCMB.iml" />
       <module fileurl="file://$PROJECT_DIR$/SecondViewApp.iml" filepath="$PROJECT_DIR$/SecondViewApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
